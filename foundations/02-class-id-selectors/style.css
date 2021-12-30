@@ -1,0 +1,19 @@
+.odd-text {
+    background-color: rgb(241, 142, 158);
+    font-family:Verdana, sans-serif;
+}
+
+.odd-text.third-row {
+    font-size:24px;
+}
+
+#blue-text {
+    color:rgb(0, 0, 255);
+    font-size:36px;
+}
+
+#green-background {
+    background-color: rgb(32, 173, 43);
+    font-size:24px;
+    font-weight:bold;
+}
